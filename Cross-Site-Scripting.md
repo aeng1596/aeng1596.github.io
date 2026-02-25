@@ -5,7 +5,7 @@
 **เป้าหมาย:** ไฟล์ `index.php` ในระบบ PHP Web Application  
 **ระดับความเสี่ยง:** สูง (High Risk)  
 
-![PIC1](im/IM1.png)
+![PIC1](im/IM1 (1).png)
 
 ---
 
