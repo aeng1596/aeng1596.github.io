@@ -1,7 +1,4 @@
-theme: jekyll-theme-cayman
-# theme: jekyll-theme-minimal 
-# theme: jekyll-theme-slate 
-# theme: jekyll-theme-midnight 
-# theme: jekyll-theme-merlot 
-# plugins:
-#   - jekyll-titles-from-headings
+title: Aeng - Blue Ocean Developer
+description: Backend Developer | Spring Boot | Kotlin | Database Optimization
+theme: minima
+markdown: kramdown
