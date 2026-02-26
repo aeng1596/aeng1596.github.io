@@ -1,7 +1,10 @@
++ [Configure-a-Firewall.md](Configure-a-Firewall.md)
 + [adapter-card](adapter-card)
 + [newsreader](newsreader)
 + [off-site-storage](off-site-storage)
-+ [Configure-a-VPN-Connection-iPad](configure-a-vpn-connection-ipad)
 + [Cross-Site-Scripting.md](Cross-Site-Scripting.md)
 + [git-wrapped.md](git-wrapped.md)
-## gimini
+## Gimini
++ [Gemini_Educator.md](Gemini_Educator.md)
++ [Gemini_Faculty.md](Gemini_Faculty.md)
++ [Gemini_University_Student.md](Gemini_University_Student.md)
